@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Sensitive files - อย่า commit!
+.env
+credentials.json
+token.json
+
+# Logs
+*.log
+npm-debug.log*
